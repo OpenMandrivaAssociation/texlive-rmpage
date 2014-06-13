@@ -6,7 +6,7 @@
 # catalog-version 0.92
 Name:		texlive-rmpage
 Version:	0.92
-Release:	6
+Release:	7
 Summary:	A package to help change page layout parameters in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rmpage
