@@ -1,6 +1,6 @@
 Name:		texlive-rmpage
 Version:	54080
-Release:	1
+Release:	2
 Summary:	A package to help change page layout parameters in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rmpage
