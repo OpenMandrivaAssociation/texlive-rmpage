@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	A package to help change page layout parameters in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rmpage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rmpage
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rmpage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rmpage.doc.r%{version}.tar.xz
